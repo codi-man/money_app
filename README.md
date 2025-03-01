@@ -1,6 +1,6 @@
 # money_app
 
-A new Flutter project.
+💰 Expense Manager App – A simple app to track and manage your expenses efficiently. View your spending history, set budgets. Stay in control of your finances with ease! 📊💳
 
 ## Getting Started
 
